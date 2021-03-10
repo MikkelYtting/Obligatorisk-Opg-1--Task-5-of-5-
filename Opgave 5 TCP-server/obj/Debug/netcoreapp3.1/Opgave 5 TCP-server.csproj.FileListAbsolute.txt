@@ -1,0 +1,17 @@
+C:\Users\Mikkel\OneDrive\3. Semester Programmering\1 Obligatoriske opgave programmering\Opgave 5 TCP-server\Opgave 5 TCP-server\obj\Debug\netcoreapp3.1\Opgave 5 TCP-server.csprojAssemblyReference.cache
+C:\Users\Mikkel\OneDrive\3. Semester Programmering\1 Obligatoriske opgave programmering\Opgave 5 TCP-server\Opgave 5 TCP-server\obj\Debug\netcoreapp3.1\Opgave 5 TCP-server.AssemblyInfoInputs.cache
+C:\Users\Mikkel\OneDrive\3. Semester Programmering\1 Obligatoriske opgave programmering\Opgave 5 TCP-server\Opgave 5 TCP-server\obj\Debug\netcoreapp3.1\Opgave 5 TCP-server.AssemblyInfo.cs
+C:\Users\Mikkel\OneDrive\3. Semester Programmering\1 Obligatoriske opgave programmering\Opgave 5 TCP-server\Opgave 5 TCP-server\obj\Debug\netcoreapp3.1\Opgave 5 TCP-server.csproj.CoreCompileInputs.cache
+C:\Users\Mikkel\OneDrive\3. Semester Programmering\1 Obligatoriske opgave programmering\Opgave 5 TCP-server\Opgave 5 TCP-server\bin\Debug\netcoreapp3.1\Opgave 5 TCP-server.exe
+C:\Users\Mikkel\OneDrive\3. Semester Programmering\1 Obligatoriske opgave programmering\Opgave 5 TCP-server\Opgave 5 TCP-server\bin\Debug\netcoreapp3.1\Opgave 5 TCP-server.deps.json
+C:\Users\Mikkel\OneDrive\3. Semester Programmering\1 Obligatoriske opgave programmering\Opgave 5 TCP-server\Opgave 5 TCP-server\bin\Debug\netcoreapp3.1\Opgave 5 TCP-server.runtimeconfig.json
+C:\Users\Mikkel\OneDrive\3. Semester Programmering\1 Obligatoriske opgave programmering\Opgave 5 TCP-server\Opgave 5 TCP-server\bin\Debug\netcoreapp3.1\Opgave 5 TCP-server.runtimeconfig.dev.json
+C:\Users\Mikkel\OneDrive\3. Semester Programmering\1 Obligatoriske opgave programmering\Opgave 5 TCP-server\Opgave 5 TCP-server\bin\Debug\netcoreapp3.1\Opgave 5 TCP-server.dll
+C:\Users\Mikkel\OneDrive\3. Semester Programmering\1 Obligatoriske opgave programmering\Opgave 5 TCP-server\Opgave 5 TCP-server\bin\Debug\netcoreapp3.1\Opgave 5 TCP-server.pdb
+C:\Users\Mikkel\OneDrive\3. Semester Programmering\1 Obligatoriske opgave programmering\Opgave 5 TCP-server\Opgave 5 TCP-server\obj\Debug\netcoreapp3.1\Opgave 5 TCP-server.dll
+C:\Users\Mikkel\OneDrive\3. Semester Programmering\1 Obligatoriske opgave programmering\Opgave 5 TCP-server\Opgave 5 TCP-server\obj\Debug\netcoreapp3.1\Opgave 5 TCP-server.pdb
+C:\Users\Mikkel\OneDrive\3. Semester Programmering\1 Obligatoriske opgave programmering\Opgave 5 TCP-server\Opgave 5 TCP-server\obj\Debug\netcoreapp3.1\Opgave 5 TCP-server.genruntimeconfig.cache
+C:\Users\Mikkel\OneDrive\3. Semester Programmering\1 Obligatoriske opgave programmering\Opgave 5 TCP-server\Opgave 5 TCP-server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Mikkel\OneDrive\3. Semester Programmering\1 Obligatoriske opgave programmering\Opgave 5 TCP-server\Opgave 5 TCP-server\bin\Debug\netcoreapp3.1\Opgave 1 og Unit tests Obligatorisk opg 1.dll
+C:\Users\Mikkel\OneDrive\3. Semester Programmering\1 Obligatoriske opgave programmering\Opgave 5 TCP-server\Opgave 5 TCP-server\bin\Debug\netcoreapp3.1\Opgave 1 og Unit tests Obligatorisk opg 1.pdb
+C:\Users\Mikkel\OneDrive\3. Semester Programmering\1 Obligatoriske opgave programmering\Opgave 5 TCP-server\Opgave 5 TCP-server\obj\Debug\netcoreapp3.1\Opgave 5 TCP-server.csproj.CopyComplete

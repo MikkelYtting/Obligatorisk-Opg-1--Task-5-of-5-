@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wEJ0VWAXX+irvCNv7jwDzcf4q7oAPOpgd38YfavtL5xrNQTTNS3PDrc9LbtZlyPpkChcBYkZHTyEXnVZXajNbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mikkel\\OneDrive\\3. Semester Programmering\\1 Obligatoriske opgave programmering\\Opgave 5 TCP-server\\Opgave 5 TCP-server\\Opgave 5 TCP-server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mikkel\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
